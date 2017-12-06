@@ -1,3 +1,5 @@
+[EDIT: THIS TEMPLATE IS OUTDATED BECAUSE SF2D, SFTD AND SFIL ARE OUTDATED. TAKE A LOOK TO THIS: https://github.com/Manurocker95/3DS-Homebrew-Template-With-PP2D]
+
 Template for those who want an example for 3DS Homebrew Development in Visual Studio 2015.
 
 This is my own example for my tutorial Setup Environment for 3DS Homebrew in Visual Studio 2015:
